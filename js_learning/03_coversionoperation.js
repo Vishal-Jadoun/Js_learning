@@ -1,4 +1,5 @@
-let score = "vishal"  // its a variable variable quantity and be a number alphabat or NaN
+/*
+let score = "33abc"  // its a variable variable quantity and be a number alphabat or NaN
 
 console.log(typeof score); //to check the type of the score value weather is a string or bollean etc
 console.log(typeof (score)); // just a way to to rewrite the upper code
@@ -27,4 +28,19 @@ let someNumber = 69
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+*/
+//**********Opeation**********
+
+let value = 5
+let negValue = -value
+console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-3);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/2);
+// console.log(2%3);
+
 
